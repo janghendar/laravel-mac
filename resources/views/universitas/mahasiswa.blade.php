@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Halaman View</title>
+    <link rel="stylesheet" href="/css/my-style.css">
 </head>
 <body>
     <h1>Daftar Mahasiswa</h1>
@@ -38,5 +39,7 @@
     <div>
         Copyright <?php echo date("M-Y"); ?>. Suhendar Aryadi
     </div>
+
+    <script src="/js/my-script.js"></script>
 </body>
 </html>
