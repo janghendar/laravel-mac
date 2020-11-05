@@ -34,6 +34,9 @@
     
     
     </ul>
+
+    <img src="/img/foto1.jpg">
+    <img src="/img/foto2.jpg" >
     
     <p>
     <div>
